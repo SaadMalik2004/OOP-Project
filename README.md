@@ -46,10 +46,6 @@ The game consists of **three main screens (frames)**:
 - Multiple enemy types  
 - Power-ups and advanced player weapons
 
-## 📷 Screenshots
-
-> *(Add screenshots here after uploading images to your repo's `images/` folder)*
-
 ---
 
 Feel free to fork, clone, or contribute!
